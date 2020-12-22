@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+Stay hungry, stay foolish
 Use the left arrow to go back!
